@@ -1,5 +1,7 @@
 # Persian Handwritten Recognition
 
+[Replicate Demo](https://replicate.com/aztofighi/persian-digit-detector)
+
 [Download Pretrained Models](https://huggingface.co/Azadeh/PersianHandwrittenDigits/tree/main)
 
 ## Abstract
